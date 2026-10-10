@@ -1,4 +1,12 @@
-# Budget Planner
+# Budget Planner 📊
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Offline-First-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AR%20%2F%20EN-RTL-orange?style=for-the-badge" />
+</p>
 
 A private, offline budget planner in Flutter + GetX: a daily spending limit,
 transactions by category, and monthly statistics. English and Arabic (RTL),
@@ -37,4 +45,3 @@ flutter pub get
 flutter run
 flutter test
 ```
-# budget_planner_app
